@@ -1,4 +1,4 @@
-Programa de Inventario en Python
+# Programa de Inventario en Python
 Descripción
 
 Este programa en Python permite registrar un producto dentro de un inventario simple.
